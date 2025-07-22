@@ -2,7 +2,7 @@
 - 👀 I’m interested in ROBOTICS!!!!! (and the trifecta of robotics engineering)*
 - 🌱 I’m currently learning Electrical Engineering
 - 💞️ I’m looking to collaborate on Embedded engineering projects
-- 📫 How to reach me? take a look at my website!
+- 📫 How to reach me? take a look at my [website](www.delestine.com/astrid)!
 - 😄 Pronouns: She/Her/They/Them
 - ⚡ Fun fact: I wear many hats but I own some pretty cool ones too!
 
